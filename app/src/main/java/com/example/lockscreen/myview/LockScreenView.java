@@ -1,4 +1,4 @@
-package com.example.lockscreen.myview;
+﻿package com.example.lockscreen.myview;
 
 import android.animation.Animator;
 import android.content.Context;
@@ -24,9 +24,6 @@ import com.example.lockscreen.vo.WordDisplay;
 import androidx.appcompat.app.AppCompatActivity;
 
 /**
- * @author 涂成
- * @version 1.0
- * @updateAuthor 涂成
  * @Description
  * @updateDes 2019/08/10:11
  */

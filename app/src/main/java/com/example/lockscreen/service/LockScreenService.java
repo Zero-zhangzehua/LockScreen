@@ -1,4 +1,4 @@
-package com.example.lockscreen.service;
+﻿package com.example.lockscreen.service;
 
 import android.app.PendingIntent;
 import android.app.Service;
@@ -14,7 +14,6 @@ import com.example.lockscreen.StyleDetailActivity;
 /**
  * Created by S9023192 on 2019/8/7.
  * 作用：锁屏内部的服务
- * 作者：张泽华
  */
 public class LockScreenService extends Service {
     private IntentFilter mIntentFilter;

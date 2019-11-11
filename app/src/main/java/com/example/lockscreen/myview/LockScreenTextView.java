@@ -1,4 +1,4 @@
-package com.example.lockscreen.myview;
+﻿package com.example.lockscreen.myview;
 
 import android.content.Context;
 import android.graphics.Canvas;
@@ -12,9 +12,6 @@ import android.util.AttributeSet;
 import androidx.appcompat.widget.AppCompatTextView;
 
 /**
- * @author 涂成
- * @version 1.0
- * @updateAuthor 涂成
  * @Description 自定义view
  * @updateDes 2019/08/14:19
  */

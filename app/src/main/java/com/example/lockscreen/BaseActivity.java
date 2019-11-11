@@ -1,4 +1,4 @@
-package com.example.lockscreen;
+﻿package com.example.lockscreen;
 
 import android.graphics.Color;
 import android.os.Build;
@@ -11,9 +11,6 @@ import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 
 /**
- * @author 涂成
- * @version 1.0
- * @updateAuthor 涂成
  * @Description
  * @updateDes 2019/08/14:48
  */
