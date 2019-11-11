@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lotties_array">
+        <item>behappy.json</item>
+        <item>celebration.json</item>
+        <item>move.json</item>
+        <item>programming.json</item>
+        <item>sleeping.json</item>
+        <item>walkcycle.json</item>
+        <item>fireworks.json</item>
+        <item>helicopter.json</item>
+        <item>loadern.json</item>
+        <item>hello-world.json</item>
+        <item>celebration.json</item>
+        <item>move.json</item>
+        <item>programming.json</item>
+        <item>sleeping.json</item>
+    </string-array>
+</resources>

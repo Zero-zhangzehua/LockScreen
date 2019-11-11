@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LockScreenView">
+        <attr name="isRight" format="boolean"></attr>
+        <attr name="timeSize" format="dimension"></attr>
+        <attr name="timeColor" format="color"></attr>
+        <attr name="dateSize" format="dimension"></attr>
+        <attr name="dateColor" format="color"></attr>
+        <attr name="textSize" format="dimension"></attr>
+        <attr name="textColor" format="color"></attr>
+        <attr name="lottieName" format="string"></attr>
+    </declare-styleable>
+</resources>
